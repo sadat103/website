@@ -20,6 +20,7 @@ const Service = () =>
                                key={ind}
                                imgsrc ={val.imgsrc}
                                title ={val.title}
+                               details ={val.details}
                         />
                      })
 

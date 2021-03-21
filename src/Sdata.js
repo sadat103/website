@@ -9,31 +9,37 @@ const Sdata =[
   {
      imgsrc: cd,
      title:"Digital Card",
+     details:"Making master card and Visa Card and online verification",
 
   },
    {
      imgsrc: web,
      title:"Web Development",
+     details: "Making good website using different framework",
 
   },
    {
      imgsrc: android,
      title:"Android project",
+     details:"Android application development using  flutter ",
 
   },
    {
      imgsrc: soft,
-     title:"Software Project",
+     title:"Software project",
+     details:"Any software or hardware project ",
 
   },
    {
      imgsrc: digital,
-     title:"Digital Project",
+     title:"Digital Marketing",
+     details:"Digital Marketing and system analysis",
 
   },
    {
      imgsrc: ai,
-     title:"Artificial Intelligence",
+     title:"Artificial intelligence",
+     details:"Using NLP for speech recognition",
 
   },
 
