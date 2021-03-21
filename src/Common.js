@@ -8,7 +8,7 @@ const Common = (props) =>
         
         <section id="header" className="d-flex alignItems: 'center', ">
                  
-          <div className="container-fluid nav_bg">
+          <div className="container-fluid ">
              <div className='row'>
 
 
