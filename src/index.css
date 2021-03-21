@@ -1,3 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif; ;
+
+}
+.navbar {
+
+  background-color: antiquewhite !important;
+
+}
+.navbar-brand{
+  font-size: 1.9rem !important;
+  color:blueviolet !important;
+
+}
+
+.navbar a:hover{
+  color: blue !important;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
